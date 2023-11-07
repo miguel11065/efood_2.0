@@ -1,6 +1,7 @@
 import React from 'react'
 import { GlobalCss } from './styles'
 import Header from './components/Header'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <GlobalCss />
       <div>
         <Header />
+        <Footer />
       </div>
     </>
   )
