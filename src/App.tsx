@@ -1,5 +1,4 @@
 import React from 'react'
-import './App.css'
 import { GlobalCss } from './styles'
 
 function App() {
